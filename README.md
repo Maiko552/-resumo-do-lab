@@ -1,21 +1,39 @@
-# -resumo-do-lab
-Resumo:
-Cloud computing é serviço entregado via internet, onde se dividem em nuvem pública, nuvem privada e nuvem híbrida.
-  Nuvem privada:
-      .As organizações criam um ambiente em seus datacenters.
-      .Não fornece acesso aos usuários fora da organização.
-      .A organização é responsável por operar os serviços que fornece.
-  Nuvem pública:
-      .Pertence a serviços de nuvem ou provedor de hosting.
-      .Fornece recursos e serviços a várias organizações e usuários.
-      .Acessada via conexão de rede segura.
-  Nuvem híbrida:
-      .Combina as nuvens públicas e privadas para permitir que os aplicativos sejam executados no local mais apropriado.
+# ☁️ Resumo do Lab: Cloud Computing
 
-Comparações de CapEx e OpEx:
-    CapEx:
-      .Gasto inicial na infraestrutura física.
-      .Reduzido com o tempo.
-    OpEx:
-      .Gastos em produtos e serviços conforme necessário, pagamento conforme o uso.
-      .Recebe a conta imediatamente.
+## O que é Cloud Computing?
+Cloud computing é um serviço entregue via internet, dividido em **nuvem pública**, **nuvem privada** e **nuvem híbrida**.
+
+---
+
+## 🔒 Nuvem Privada
+- As organizações criam um ambiente em seus próprios datacenters.  
+- Não fornece acesso a usuários fora da organização.  
+- A própria organização é responsável por operar e manter os serviços.  
+
+---
+
+## 🌍 Nuvem Pública
+- Pertence a provedores de serviços de nuvem ou de hosting.  
+- Fornece recursos e serviços a várias organizações e usuários.  
+- É acessada via conexão de rede segura.  
+
+---
+
+## 🔄 Nuvem Híbrida
+- Combina nuvem pública e privada.  
+- Permite que os aplicativos sejam executados no **local mais apropriado**, dependendo da necessidade.  
+
+---
+
+## 💰 Comparações de CapEx e OpEx
+
+### CapEx (Capital Expenditure)
+- Gasto inicial em **infraestrutura física**.  
+- Reduzido com o tempo.  
+
+### OpEx (Operational Expenditure)
+- Gastos em produtos e serviços **conforme necessário**.  
+- Pagamento baseado no uso (pay-as-you-go).  
+- A cobrança é feita imediatamente.  
+
+---
